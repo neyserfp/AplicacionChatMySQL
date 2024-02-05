@@ -21,6 +21,7 @@ public class ClienteA extends javax.swing.JFrame implements Observer{
     
     /**
      * Creates new form ClienteA
+     *
      */
     public ClienteA(){
         initComponents();
